@@ -1,0 +1,94 @@
+
+body {
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    color:#424242;
+  }
+  
+  pre,
+  code {
+    font-family: 'DejaVu Sans Mono', Menlo, Consolas, monospace;
+  }
+  
+  hr {
+    border: 0 #ccc solid;
+    border-top-width: 1px;
+    clear: both;
+    height: 0;
+  }
+  
+  /* `Headings
+  ----------------------------------------------------------------------------------------------------*/
+  
+  h1 {
+    font-size: 39px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight:500;
+  }
+  
+  h2 {
+    font-size: 24px;
+    font-family: 'Ubuntu', sans-serif;
+  }
+  
+  h3 {
+    font-size: 20px;
+    font-family: 'Ubuntu', sans-serif;
+  }
+  
+  h4 {
+    font-size: 18px;
+    font-family: 'Ubuntu', sans-serif;
+  }
+  
+  h5 {
+    font-size: 16px;
+    font-family: 'Ubuntu', sans-serif;
+  }
+  
+  h6 {
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+  }
+  
+  /* `Spacing
+  ----------------------------------------------------------------------------------------------------*/
+  
+  ol {
+    list-style: decimal;
+  }
+  
+  ul {
+    list-style: disc;
+  }
+  
+  li {
+    margin-left: 30px;
+  }
+  
+  p,
+  dl,
+  hr,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  ol,
+  ul,
+  pre,
+  table,
+  address,
+  fieldset,
+  figure {
+    margin-bottom: 20px;
+  }
+  
+  /* `Custom Styles
+  ----------------------------------------------------------------------------------------------------*/
+  
+  strong {
+      font-weight:inherit;
+      color:#bb1010;
+  }
