@@ -30,6 +30,8 @@ img.frig {
 
 .logo {
     padding-top: 10px;
+    height: 50px;
+    width: 50px;
 }
 
 .contact {
@@ -158,6 +160,7 @@ img.frig {
 }
 
 footer {
+    text-align: center;
     background-color: #414141;
     width: 100%;
     color: #FFF;
