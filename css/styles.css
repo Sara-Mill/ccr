@@ -33,10 +33,21 @@ ul {
     padding: 3px;
 }
 
+#blurb05 {
+    color: green;
+    padding-top: 150px;
+}
+
+
+#loren {
+    height: 45%;
+    width: 45%;
+}
+
 #loren2 {
     padding-top: 5px;
-    color:#bb1010;
     text-align: center;
+    color:#8f0808;
 }
 
 img {
