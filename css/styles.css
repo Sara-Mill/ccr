@@ -22,6 +22,10 @@ ul {
       padding-left: 0;
 }
 
+#statSheetTable {
+    text-align-last: center;
+}
+
 #silver2005 {
     height:150px;
     width:150px;
