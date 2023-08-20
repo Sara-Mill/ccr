@@ -49,6 +49,10 @@ ul {
     padding-left: 15px;
 }
 
+#salePrice {
+    font-weight: bold;
+}
+
 #loren {
     height: 45%;
     width: 45%;
