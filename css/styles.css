@@ -24,6 +24,9 @@ ul {
 
 #statSheetTable {
     text-align-last: center;
+    table-layout:auto;
+    width: 100%;
+    text-size-adjust: auto;
 }
 
 #silver2005 {
@@ -210,5 +213,19 @@ footer a {
 @media all and (max-width: 767px) {
     #grayWrap h2 {
         font-size: 19px;
+    }
+    #image {
+        width: 75%;
+    }
+}
+@media all and (max-width: 576px) {
+    #grayWrap h2 {
+        font-size: 19px;
+    }
+    #image {
+        width: 75%;
+    }
+    #footer {
+      
     }
 }
